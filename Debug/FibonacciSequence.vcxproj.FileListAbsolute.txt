@@ -1,0 +1,2 @@
+C:\Users\Giorgiopc\Desktop\Pisa\Anlisi Matematica\FibonacciSequence\FibonacciSequence\Debug\FibonacciSequence.exe
+C:\Users\Giorgiopc\Desktop\Pisa\Anlisi Matematica\FibonacciSequence\FibonacciSequence\Debug\FibonacciSequence.pdb
