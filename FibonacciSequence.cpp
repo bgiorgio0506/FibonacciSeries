@@ -23,7 +23,7 @@ long fibonacci(long i)
 
     if (i == 0) return 0;
     else if (i == 1) return 1;
-    else return fibonacci(i - 1) + fibonacci(i - 2); /**ricorsivit‡ (stack trace) somma degli utlimi due numeri*/
+    else return fibonacci(i - 1) + fibonacci(i - 2); /**ricorsivit√† (stack trace) somma degli utlimi due numeri*/
 }
 
 int main(void)
@@ -35,9 +35,4 @@ int main(void)
     return 0;
 }
 
-/*
-  Nota: il numero di Fibonacci cresce molto velocemente. Per calcolare il
-  numero di Fibonacci per numeri grandi, modificare la funzione sostituendo
-  int con long
-*/
 
