@@ -19,7 +19,7 @@ long c = 1;
 long fibonacci(long i)
 {
     cout << c++<<endl; 
-    if (i < 0) return -1; /* la puoi estendere per numeri negativi */
+    if (i < 0) return -1;
 
     if (i == 0) return 0;
     else if (i == 1) return 1;
